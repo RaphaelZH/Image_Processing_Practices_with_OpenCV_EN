@@ -8,22 +8,22 @@
 .DS_Store
 .ipynb_checkpoints
 
-venv-python3-10/*
+**/venv-python3-10/*
 
-PyTorch for Deep Learning and Computer Vision/**/1 - Intro to Tensors - PyTorch.ipynb
-PyTorch for Deep Learning and Computer Vision/**/2 - Linear Regression - PyTorch.ipynb
-PyTorch for Deep Learning and Computer Vision/**/3 - Perceptrons - PyTorch.ipynb
-PyTorch for Deep Learning and Computer Vision/**/4 - Deep Neural Networks - PyTorch.ipynb
-PyTorch for Deep Learning and Computer Vision/**/5 - Image Recognition - PyTorch.ipynb
-PyTorch for Deep Learning and Computer Vision/**/6 - Convolutional Neural Networks - PyTorch.ipynb
-PyTorch for Deep Learning and Computer Vision/**/7 - CIFAR-10 Classification - PyTorch.ipynb
-PyTorch for Deep Learning and Computer Vision/**/8 - Transfer Learning - PyTorch.ipynb
-PyTorch for Deep Learning and Computer Vision/**/9 - Style Transfer - PyTorch.ipynb
+**/PyTorch for Deep Learning and Computer Vision/**/1 - Intro to Tensors - PyTorch.ipynb
+**/PyTorch for Deep Learning and Computer Vision/**/2 - Linear Regression - PyTorch.ipynb
+**/PyTorch for Deep Learning and Computer Vision/**/3 - Perceptrons - PyTorch.ipynb
+**/PyTorch for Deep Learning and Computer Vision/**/4 - Deep Neural Networks - PyTorch.ipynb
+**/PyTorch for Deep Learning and Computer Vision/**/5 - Image Recognition - PyTorch.ipynb
+**/PyTorch for Deep Learning and Computer Vision/**/6 - Convolutional Neural Networks - PyTorch.ipynb
+**/PyTorch for Deep Learning and Computer Vision/**/7 - CIFAR-10 Classification - PyTorch.ipynb
+**/PyTorch for Deep Learning and Computer Vision/**/8 - Transfer Learning - PyTorch.ipynb
+**/PyTorch for Deep Learning and Computer Vision/**/9 - Style Transfer - PyTorch.ipynb
 
-Modern Computer Vision PyTorch, TensorFlow 2 Keras & OpenCV 4/**/1 - OpenCV - Image Operations.ipynb
+**/Modern Computer Vision PyTorch, TensorFlow 2 Keras & OpenCV 4/**/1 - OpenCV - Image Operations.ipynb
 
-Deep Learning with PyTorch for Medical Image Analysis/**/2 - CNN - Convolutional Neural Networks.ipynb
-Deep Learning with PyTorch for Medical Image Analysis/**/3 - Data Formats in Medical Imaging.ipynb
-Deep Learning with PyTorch for Medical Image Analysis/**/4 - Pneumonia-Classification.ipynb
+**/Deep Learning with PyTorch for Medical Image Analysis/**/2 - CNN - Convolutional Neural Networks.ipynb
+**/Deep Learning with PyTorch for Medical Image Analysis/**/3 - Data Formats in Medical Imaging.ipynb
+**/Deep Learning with PyTorch for Medical Image Analysis/**/4 - Pneumonia-Classification.ipynb
 
-Deep Learning with PyTorch for Medical Image Analysis/Manuscripts/.texpadtmp/*
+**/Deep Learning with PyTorch for Medical Image Analysis/Manuscripts/.texpadtmp/*
